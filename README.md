@@ -1,6 +1,11 @@
+
+
 # CS2-Discord
+
+
 ## Description
-Links a Discord Channel with CS2 In Game Chat
+- Links a Discord Channel with CS2 In Game Chat
+- !! WARNING !! THIS PLUGIN WILL HAVE TROUBLE WORKING IF THE SERVER HAS CUSTOM TAGS SUCH AS [CS2-TAGS](https://github.com/daffyyyy/CS2-Tags)
 
 ## Requirments
 - [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp/) **tested on v265**
