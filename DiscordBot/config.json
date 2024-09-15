@@ -1,0 +1,7 @@
+{
+    "token": "", // Discord Bot Token
+    "ip": "", // CS2 Server IP Address
+    "port": 27015, // CS2 Server Port
+    "password": "", // CS2 Server RCON Password
+    "channel_id": 0 // Discord Channel ID
+}
